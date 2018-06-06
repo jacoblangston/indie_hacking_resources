@@ -21,8 +21,13 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://www.figma.com/
 
 ## Development
+### Interactive Notebooks
+1. https://beta.observablehq.com/
+1. https://jscomplete.com/repl/
+
 ### Database
 1. https://restdb.io/
+1. https://mariadb.org/
 
 ### Back-end
 1. https://strapi.io/
