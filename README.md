@@ -1,2 +1,29 @@
-# indie_hacking_resources
-List of tools, articles, and other resources I find useful.
+# Indie Hacking Resources
+Curated list of tools, articles, and other resources I find useful.
+
+## Research and Community
+1. https://www.indiehackers.com/
+1. https://www.producthunt.com/
+1. https://stackshare.io/
+
+## Next-Gen Input Devices
+1. https://www.magicleap.com/
+1. https://www.emotiv.com/
+1. https://zkoocamera.com/
+1. https://www.myo.com/
+
+## AR/VR/MR
+1. https://www.acer.com/ac/en/US/content/series/wmr
+
+## Design
+1. https://bootstrapstudio.io/
+1. https://www.invisionapp.com/
+1. https://www.figma.com/
+
+## Development
+### Database
+1. https://restdb.io/
+
+### Back-end
+1. https://strapi.io/
+1. http://nancyfx.org/
