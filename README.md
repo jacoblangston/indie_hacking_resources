@@ -5,6 +5,11 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://www.indiehackers.com/
 1. https://www.producthunt.com/
 1. https://stackshare.io/
+1. https://startupbase.io
+1. https://betapage.co
+1. https://startup-journey.com/explore
+1. https://www.betas.io/browse
+1. http://www.microconf.com/starter/
 
 ## Next-Gen Input Devices
 1. https://www.magicleap.com/
@@ -15,10 +20,22 @@ Curated list of tools, articles, and other resources I find useful.
 ## AR/VR/MR
 1. https://www.acer.com/ac/en/US/content/series/wmr
 
+## Artificial Intelligence
+1. http://www.theconstructsim.com
+1. http://www.fakenewschallenge.org
+1. https://www.aaai.org
+1. http://www.aispace.org
+1. https://www.tensorflow.org
+
 ## Design
 1. https://bootstrapstudio.io/
 1. https://www.invisionapp.com/
 1. https://www.figma.com/
+1. https://coolors.co
+1. https://uigradients.com
+1. http://www.patorjk.com/software/taag (text to ascii art generator)
+1. https://www.launchaco.com
+1. https://www.typewolf.com
 
 ## Development
 ### Interactive Notebooks
@@ -32,3 +49,48 @@ Curated list of tools, articles, and other resources I find useful.
 ### Back-end
 1. https://strapi.io/
 1. http://nancyfx.org/
+1. https://socket.io
+
+### Game
+1. https://unity3d.com
+1. https://www.panda3d.org
+
+### Mobile
+1. https://flutter.io
+1. https://www.nativescript.org
+
+### Payments
+1. https://gumroad.com
+1. https://stripe.com
+1. https://www.chargebee.com
+
+### APIs
+1. https://plaid.com
+1. http://geojson.io
+1. https://www.mapbox.com
+1. https://www.sparkpost.com
+
+## Dev-Ops
+1. https://www.netlify.com
+1. https://hyperping.io
+1. https://ipfs.io
+1. https://bitninja.io
+
+## Business
+1. https://www.liveplan.com
+1. https://ipostal1.com
+
+## Legal
+1. https://formswift.com
+1. https://termly.io
+1. https://everynda.com
+
+## Computer Science
+1. https://visualgo.net/en
+
+## Misc Tools
+1. https://wistia.com/soapbox
+1. https://smallpdf.com/compress-pdf
+1. https://insomnia.rest
+1. https://webcamera.io
+1. http://combinepdf.com
