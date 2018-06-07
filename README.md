@@ -51,6 +51,9 @@ Curated list of tools, articles, and other resources I find useful.
 1. http://nancyfx.org/
 1. https://socket.io
 
+### Front-end
+1. https://greensock.com/
+
 ### Game
 1. https://unity3d.com
 1. https://www.panda3d.org
@@ -61,8 +64,8 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://www.nativescript.org
 
 ### Payments
+1. https://www.coinpayments.net/
 1. https://gumroad.com
-1. https://stripe.com
 1. https://www.chargebee.com
 
 ### APIs
