@@ -80,6 +80,7 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://hyperping.io
 1. https://ipfs.io
 1. https://bitninja.io
+1. www.fastly.com
 
 ## Business
 1. https://www.liveplan.com
