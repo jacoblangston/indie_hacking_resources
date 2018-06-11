@@ -54,6 +54,7 @@ Curated list of tools, articles, and other resources I find useful.
 ### Front-end
 1. https://greensock.com/
 1. http://animista.net/
+1. https://popmotion.io/
 
 ### Game
 1. https://unity3d.com
