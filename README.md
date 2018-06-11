@@ -75,6 +75,7 @@ Curated list of tools, articles, and other resources I find useful.
 1. http://geojson.io
 1. https://www.mapbox.com
 1. https://www.sparkpost.com
+1. https://cognitohq.com/ (Age verification)
 
 ## Dev-Ops
 1. https://www.netlify.com
