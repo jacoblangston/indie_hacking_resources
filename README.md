@@ -26,6 +26,7 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://www.aaai.org
 1. http://www.aispace.org
 1. https://www.tensorflow.org
+1. http://inst.eecs.berkeley.edu/~cs61b/fa14/ta-materials/apps/ab_tree_practice/
 
 ## Design
 1. https://bootstrapstudio.io/
