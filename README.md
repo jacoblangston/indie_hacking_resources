@@ -58,6 +58,8 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://greensock.com/
 1. http://animista.net/
 1. https://popmotion.io/
+1. https://medium.freecodecamp.org/reactjs-implement-drag-and-drop-feature-without-using-external-libraries-ad8994429f1a
+1. https://www.react-reveal.com/
 
 ### Game
 1. https://unity3d.com
