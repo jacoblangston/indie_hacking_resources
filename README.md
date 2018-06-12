@@ -27,6 +27,8 @@ Curated list of tools, articles, and other resources I find useful.
 1. http://www.aispace.org
 1. https://www.tensorflow.org
 1. http://inst.eecs.berkeley.edu/~cs61b/fa14/ta-materials/apps/ab_tree_practice/
+1. http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html
+1. http://www2.cs.uregina.ca/~dbd/cs831/notes/confusion_matrix/confusion_matrix.html
 
 ## Design
 1. https://bootstrapstudio.io/
