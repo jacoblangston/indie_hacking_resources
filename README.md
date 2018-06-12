@@ -30,6 +30,9 @@ Curated list of tools, articles, and other resources I find useful.
 1. http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html
 1. http://www2.cs.uregina.ca/~dbd/cs831/notes/confusion_matrix/confusion_matrix.html
 
+## IoT
+1. https://blog.prototypr.io/using-voice-commands-to-control-a-website-with-amazon-echo-alexa-part-1-6-a35edbfef405
+
 ## Design
 1. https://bootstrapstudio.io/
 1. https://www.invisionapp.com/
