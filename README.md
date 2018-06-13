@@ -42,6 +42,7 @@ Curated list of tools, articles, and other resources I find useful.
 1. http://www.patorjk.com/software/taag (text to ascii art generator)
 1. https://www.launchaco.com
 1. https://www.typewolf.com
+1. https://www.haiku.ai/
 
 ## Development
 ### Interactive Notebooks
@@ -111,3 +112,4 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://insomnia.rest
 1. https://webcamera.io
 1. http://combinepdf.com
+1. http://www.rapidfeeds.com/
