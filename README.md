@@ -44,6 +44,7 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://www.launchaco.com
 1. https://www.typewolf.com
 1. https://www.haiku.ai/
+1. https://zeplin.io/
 
 ## Development
 ### Interactive Notebooks
