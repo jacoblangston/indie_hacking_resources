@@ -29,6 +29,7 @@ Curated list of tools, articles, and other resources I find useful.
 1. http://inst.eecs.berkeley.edu/~cs61b/fa14/ta-materials/apps/ab_tree_practice/
 1. http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html
 1. http://www2.cs.uregina.ca/~dbd/cs831/notes/confusion_matrix/confusion_matrix.html
+1. https://aws.amazon.com/lex/
 
 ## IoT
 1. https://blog.prototypr.io/using-voice-commands-to-control-a-website-with-amazon-echo-alexa-part-1-6-a35edbfef405
@@ -93,6 +94,9 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://ipfs.io
 1. https://bitninja.io
 1. www.fastly.com
+
+# Voice, Video, and SMS
+1. https://www.twilio.com/
 
 ## Business
 1. https://www.liveplan.com
