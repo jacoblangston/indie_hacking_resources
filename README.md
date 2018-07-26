@@ -29,7 +29,8 @@ Curated list of tools, articles, and other resources I find useful.
 1. http://inst.eecs.berkeley.edu/~cs61b/fa14/ta-materials/apps/ab_tree_practice/
 1. http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html
 1. http://www2.cs.uregina.ca/~dbd/cs831/notes/confusion_matrix/confusion_matrix.html
-1. https://aws.amazon.com/lex/
+1. https://aws.amazon.com/lex
+1. https://alpha.thecape.ai
 
 ## IoT
 1. https://blog.prototypr.io/using-voice-commands-to-control-a-website-with-amazon-echo-alexa-part-1-6-a35edbfef405
@@ -50,6 +51,7 @@ Curated list of tools, articles, and other resources I find useful.
 ### Interactive Notebooks
 1. https://beta.observablehq.com/
 1. https://jscomplete.com/repl/
+1. https://ipython.org/notebook.html
 
 ### Database
 1. https://restdb.io/
@@ -67,6 +69,13 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://medium.freecodecamp.org/reactjs-implement-drag-and-drop-feature-without-using-external-libraries-ad8994429f1a
 1. https://www.react-reveal.com/
 
+#### React and Node Packages
+1. https://github.com/mroderick/PubSubJS
+1. https://github.com/hden/socketio-wildcard
+1. https://github.com/FortAwesome/react-fontawesome
+1. https://reactstrap.github.io/
+1. https://github.com/rtfeldman/seamless-immutable
+
 ### Game
 1. https://unity3d.com
 1. https://www.panda3d.org
@@ -75,6 +84,9 @@ Curated list of tools, articles, and other resources I find useful.
 ### Mobile
 1. https://flutter.io
 1. https://www.nativescript.org
+
+### Cross-Platform
+1. https://haxe.org/
 
 ### Payments
 1. https://www.coinpayments.net/
@@ -88,13 +100,15 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://www.sparkpost.com
 1. https://cognitohq.com/ (Age verification)
 1. https://agechecker.net/ (Age verification)
+1. https://root.co.za/ (Programmable banking)
+1. https://www.pubnub.com/ (Real-time messaging infrastructure)
 
 ## Dev-Ops
 1. https://www.netlify.com
 1. https://hyperping.io
 1. https://ipfs.io
 1. https://bitninja.io
-1. www.fastly.com
+1. https://www.fastly.com
 
 # Voice, Video, and SMS
 1. https://www.twilio.com/
