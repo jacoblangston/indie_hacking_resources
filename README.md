@@ -68,6 +68,8 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://popmotion.io/
 1. https://medium.freecodecamp.org/reactjs-implement-drag-and-drop-feature-without-using-external-libraries-ad8994429f1a
 1. https://www.react-reveal.com/
+1. https://trackingjs.com/
+1. http://gpu.rocks/
 
 #### React and Node Packages
 1. https://github.com/mroderick/PubSubJS
@@ -102,6 +104,7 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://agechecker.net/ (Age verification)
 1. https://root.co.za/ (Programmable banking)
 1. https://www.pubnub.com/ (Real-time messaging infrastructure)
+1. https://www.messagebird.com/en-us/
 
 ## Dev-Ops
 1. https://www.netlify.com
