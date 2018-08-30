@@ -48,6 +48,9 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://zeplin.io/
 
 ## Development
+### Diagrams
+1. https://www.stackdraft.io/
+
 ### Interactive Notebooks
 1. https://beta.observablehq.com/
 1. https://jscomplete.com/repl/
@@ -94,6 +97,7 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://www.coinpayments.net/
 1. https://gumroad.com
 1. https://www.chargebee.com
+1. https://gocardless.com/
 
 ### APIs
 1. https://plaid.com
