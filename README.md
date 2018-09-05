@@ -73,6 +73,7 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://www.react-reveal.com/
 1. https://trackingjs.com/
 1. http://gpu.rocks/
+1. http://kenwheeler.github.io/slick/ (Carousel)
 
 #### React and Node Packages
 1. https://github.com/mroderick/PubSubJS
