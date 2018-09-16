@@ -46,6 +46,7 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://www.typewolf.com
 1. https://www.haiku.ai/
 1. https://zeplin.io/
+1. https://pixabay.com/
 
 ## Development
 ### Diagrams
@@ -132,6 +133,7 @@ Curated list of tools, articles, and other resources I find useful.
 
 ## Computer Science
 1. https://visualgo.net/en
+1. http://bigocheatsheet.com
 
 ## Misc Tools
 1. https://wistia.com/soapbox
@@ -140,3 +142,4 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://webcamera.io
 1. http://combinepdf.com
 1. http://www.rapidfeeds.com/
+1. https://datacopia.com
