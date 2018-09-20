@@ -100,6 +100,7 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://gumroad.com
 1. https://www.chargebee.com
 1. https://gocardless.com/
+1. https://www.2checkout.com/
 
 ### APIs
 1. https://plaid.com
