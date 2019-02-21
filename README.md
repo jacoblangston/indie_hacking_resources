@@ -83,6 +83,10 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://reactstrap.github.io/
 1. https://github.com/rtfeldman/seamless-immutable
 
+### C#
+1. https://flurl.io/
+1. http://www.thepollyproject.org/
+
 ### Game
 1. https://unity3d.com
 1. https://www.panda3d.org
@@ -94,6 +98,7 @@ Curated list of tools, articles, and other resources I find useful.
 
 ### Cross-Platform
 1. https://haxe.org/
+1. http://reactivex.io/
 
 ### Payments
 1. https://www.coinpayments.net/
@@ -126,6 +131,9 @@ Curated list of tools, articles, and other resources I find useful.
 ## Business
 1. https://www.liveplan.com
 1. https://ipostal1.com
+
+## Project Management
+1. https://www.wrike.com
 
 ## Legal
 1. https://formswift.com
