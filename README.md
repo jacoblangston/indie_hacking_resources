@@ -117,6 +117,7 @@ Curated list of tools, articles, and other resources I find useful.
 1. https://root.co.za/ (Programmable banking)
 1. https://www.pubnub.com/ (Real-time messaging infrastructure)
 1. https://www.messagebird.com/en-us/
+1. https://cloudinary.com (Image and video management)
 
 ## Dev-Ops
 1. https://www.netlify.com
